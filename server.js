@@ -13,5 +13,5 @@ const gun = Gun({
 });
 
 server.listen(8765, () => {
-    console.log('Servidor Gun.js escuchando en el puerto 8765');
+    console.log('Gun.js relay escuchando en el puerto 8765');
 });
